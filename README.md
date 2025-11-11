@@ -1,7 +1,7 @@
 
 
 ````markdown
-# READMEGEN.AI
+# README.io
 
 Generate high-quality GitHub README files automatically using AI and RAG (Retrieval-Augmented Generation).
 
